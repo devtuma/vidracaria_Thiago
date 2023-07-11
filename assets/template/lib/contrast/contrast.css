@@ -1,0 +1,261 @@
+.contrast div{
+	background: transparent !important;
+}
+.contrast,
+.contrast nav,
+.contrast li,
+.contrast ol,
+.contrast header,
+.contrast footer,
+.contrast section,
+.contrast main,
+.contrast aside,
+.contrast article,
+.contrast .wsmainfull,
+.contrast .wsmenu > .wsmenu-list > li > .wsmegamenu  {
+    background: black !important;
+    color: white !important;
+}
+.contrast .caption-txt > h5,
+.contrast .caption-txt > h2,
+.contrast #hero-1 .hero-txt p, #hero-2 .caption p, #hero-7 .caption p,
+.contrast .box-list-icon i{
+	color:black !important
+}
+.contrast h1,
+.contrast h2,
+.contrast h3,
+.contrast h4,
+.contrast h5,
+.contrast h6,
+.contrast p,
+.contrast label,
+.contrast strong,
+.contrast em,
+.contrast cite,
+.contrast q,
+.contrast i,
+.contrast b,
+.contrast u,
+.contrast span {
+    color: white !important;
+}
+.contrast a, 
+.contrast a:link, 
+.contrast a:active, 
+.contrast a:visited, 
+.contrast a > i, 
+.contrast a:link > i,
+.contrast a > h5,
+.contrast .btn-blue > strong{
+    color: yellow !important;
+	background: black !important;
+	border-color: yellow !important;
+}
+.contrast a > h2,
+.contrast .post-summary > a > strong,
+.contrast .todas-esp > a > strong{
+	color: yellow !important;
+}
+
+.contrast button,
+.contrast input[type=button],
+.contrast input[type=reset],
+.contrast input[type=submit]{
+    background: black !important;
+    color: yellow !important;
+    border: none !important;
+}
+.contrast img.on-contrast-force-gray {
+    filter: grayscale(100%) contrast(120%);
+}
+
+.contrast img.on-contrast-force-white {
+    filter: brightness(0) invert(1);
+}
+.contrast input[type=text],
+.contrast input[type=password],
+.contrast input[type=url],
+.contrast input[type=search],
+.contrast input[type=email],
+.contrast input[type=tel],
+.contrast input[type=date],
+.contrast input[type=month],
+.contrast input[type=week],
+.contrast input[type=datetime],
+.contrast input[type=datetime-local],
+.contrast textarea,
+.contrast .custom-select,
+.contrast .form-control,
+.contrast input[type=number] {
+    background: black !important;
+    border: 1px solid white !important;
+    color: white !important;
+}
+.contrast .image-zoom, 
+.contrast .bgChanger, 
+.contrast .blockChanger,
+.contrast #stlChanger .blockChanger,
+.contrast #search-field .btn{
+	background:transparent !important
+}
+.contrast .abox-4-table.blue-table {
+	border-color:#fff !important	
+}
+.contrast .services-section .owl-theme .owl-dots .owl-dot.active span, 
+.contrast .services-section .owl-theme .owl-dots .owl-dot:hover span,
+.contrast .reviews-section .owl-theme .owl-dots .owl-dot.active span, 
+.contrast .reviews-section .owl-theme .owl-dots .owl-dot:hover span,
+.contrast .slider.blue-nav .indicators .indicator-item.active {
+	background: yellow !important;
+}
+.contrast .services-section .owl-theme .owl-dots .owl-dot span,
+.contrast .reviews-section .owl-theme .owl-dots .owl-dot span,
+.contrast .slider.blue-nav .indicators .indicator-item {
+	border-color: yellow !important;
+}
+.contrast .logo_contrast{
+	filter: blur(0px) brightness(100%) contrast(200%) grayscale(0%) hue-rotate(360deg) invert(100%) opacity(100%) saturate(200%) sepia(0%) !important;	
+}
+.contrast .headertop-social{
+	background:black !important;
+}
+.contrast .header-button span, .contrast .wsmenu > .wsmenu-list > li.header-btn a{
+	color: yellow !important;
+	border: 1px solid yellow !important;
+}
+.contrast .white-popup,
+.contrast .stBlock,
+.contrast .chBody,
+.contrast .wsmobileheader {
+	background: black !important	
+}
+.contrast .mfp-bg {
+	background: #0b0b0b !important;
+  	opacity: 0.9 !important;	
+}
+.contrast #faqs-page #accordion [data-toggle="collapse"].collapsed:after,
+.contrast #faqs-page #accordion [data-toggle="collapse"].collapsed:after, .contrast #faqs-page #accordion [data-toggle="collapse"]:after{
+	color:yellow !important	
+}
+
+.contrast .calendar-date{
+	background: black !important;	
+	color:white !important	
+}
+
+.contrast .calendar-date-view{
+	background: black !important;	
+	color:white !important	
+}
+
+.contrast .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
+    background: yellow !important;
+}
+
+.contrast .table-proximos-sorteios > tbody > tr:nth-child(even) {background: #000; !important}
+.contrast .table-proximos-sorteios > tbody > tr:nth-child(odd) {background: #111; !important}
+
+.contrast .table-proximos-sorteios-title, .contrast .table-proximos-sorteios-title > strong{color:yellow !important}
+.contrast .table-proximos-sorteios-texts{color:#fff !important}
+
+.contrast .numero-sorteiro .btn-num{border-color:#fff !important}
+
+.contrast .quina::before,
+.contrast .dupla-quina::before,
+.contrast .keno::before,
+.contrast .super-keno::before
+{
+	-webkit-text-stroke-color: yellow !important; color:yellow !important
+}
+.contrast .sorteio-card h5:before{color:yellow !important}
+
+.contrast .chBody a,
+.contrast .chBody a:link,
+.contrast .chBody a:active,
+.contrast .chBody a:visited{
+	color:yellow !important
+}
+
+.contrast a.carousel-control-next,
+.contrast a.carousel-control-prev{
+    background: rgba(0,0,0,0) !important;
+}
+
+.contrast .table-proximos-sorteios .ribbon .dbody {
+    border-color: white !important;
+}
+
+.contrast #menu-accessibility .chBut {background:yellow !important; border-color:yellow !important}
+
+.contrast #menu-accessibility .chBut i{background:yellow !important; border-color:yellow !important; color:#000 !important}
+
+.contrast .wa_head{background: #111 !important; color:#fff !important}
+
+.contrast label[for="wa_toggle"]{background: yellow url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 576 512'%3E%3Cpath fill='%23000000' d='M532 386.2c27.5-27.1 44-61.1 44-98.2 0-80-76.5-146.1-176.2-157.9C368.3 72.5 294.3 32 208 32 93.1 32 0 103.6 0 192c0 37 16.5 71 44 98.2-15.3 30.7-37.3 54.5-37.7 54.9-6.3 6.7-8.1 16.5-4.4 25 3.6 8.5 12 14 21.2 14 53.5 0 96.7-20.2 125.2-38.8 9.2 2.1 18.7 3.7 28.4 4.9C208.1 407.6 281.8 448 368 448c20.8 0 40.8-2.4 59.8-6.8C456.3 459.7 499.4 480 553 480c9.2 0 17.5-5.5 21.2-14 3.6-8.5 1.9-18.3-4.4-25-.4-.3-22.5-24.1-37.8-54.8zm-392.8-92.3L122.1 305c-14.1 9.1-28.5 16.3-43.1 21.4 2.7-4.7 5.4-9.7 8-14.8l15.5-31.1L77.7 256C64.2 242.6 48 220.7 48 192c0-60.7 73.3-112 160-112s160 51.3 160 112-73.3 112-160 112c-16.5 0-33-1.9-49-5.6l-19.8-4.5zM498.3 352l-24.7 24.4 15.5 31.1c2.6 5.1 5.3 10.1 8 14.8-14.6-5.1-29-12.3-43.1-21.4l-17.1-11.1-19.9 4.6c-16 3.7-32.5 5.6-49 5.6-54 0-102.2-20.1-131.3-49.7C338 339.5 416 272.9 416 192c0-3.4-.4-6.7-.7-10C479.7 196.5 528 238.8 528 288c0 28.7-16.2 50.6-29.7 64z'%3E%3C/path%3E%3C/svg%3E") no-repeat center center / 50% !important;}
+
+.contrast .wa_subtitle{color:#fff !important}
+
+.contrast .wa_name{color:#fff !important}
+
+.contrast .wa_role,
+.contrast .wa_role_2{color:yellow !important}
+
+.contrast #wa_popup{background:#000 !important; border:solid 1px #fff !important}
+
+.contrast .wa_contact,
+.contrast .phone_contact,
+.contrast .email_contact,
+.contrast .wa_content{background:trasparent !important}
+
+.contrast .wa_contact a,
+.contrast .phone_contact a,
+.contrast .email_contact a{background:#000 !important; color:yellow !important}
+
+.contrast .card-header,
+.contrast .card-header:hover{background:#000 !important}
+
+.contrast .card-header h5 button h4,
+.contrast .card-header h5 button h4 i{color:yellow !important}
+
+.contrast ::placeholder{
+  color: #fff !important;
+  opacity: 1;
+}
+
+.contrast :-ms-input-placeholder{
+  color: #fff !important;
+}
+
+.contrast ::-ms-input-placeholder{
+  color: #fff !important;
+}
+
+.contrast .navbar-toggler-icon i {color:yellow !important}
+
+.contrast #submit i{
+	color:yellow !important
+}
+.contrast #submit:hover{
+	background:#000 !important;
+	color:yellow !important
+}
+
+.contrast #top_header{
+	background:#000 !important;
+}
+
+.contrast .navbar{
+	border-color:#000 !important;
+}
+.contrast img{
+	border-color:#000 !important;
+}
+
+.contrast .fa-search{
+	color:yellow !important
+}
+
+.contrast .table thead{
+	background:#000 !important;
+}

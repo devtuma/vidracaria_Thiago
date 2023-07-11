@@ -1,0 +1,265 @@
+/*Websitego goicon-v1.0.12*/
+@font-face {
+  font-family: 'goicon';
+  src:  url('fonts/goicone579.eot?i305xj');
+  src:  url('fonts/goicone579.eot?i305xj#iefix') format('embedded-opentype'),
+    url('fonts/goicone579.ttf?i305xj') format('truetype'),
+    url('fonts/goicone579.woff?i305xj') format('woff'),
+    url('fonts/goicone579.svg?i305xj#goicon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+.go {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'goicon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.goicon-menu3:before {
+  content: "\e936";
+}
+.goicon-menu4:before {
+  content: "\e937";
+}
+.goicon-menu2:before {
+  content: "\e935";
+}
+.goicon-rolagem:before {
+  content: "\e933";
+}
+.goicon-telegram-fill:before {
+  content: "\e934";
+}
+.goicon-telegram:before {
+  content: "\e932";
+}
+.goicon-tiktok:before {
+  content: "\e931";
+}
+.goicon-olho:before {
+  content: "\e92f";
+}
+.goicon-olho-fill:before {
+  content: "\e930";
+}
+.goicon-more-info:before {
+  content: "\e904";
+}
+.goicon-new-slide:before {
+  content: "\e905";
+}
+.goicon-service:before {
+  content: "\e90b";
+}
+.goicon-shutdown:before {
+  content: "\e90c";
+}
+.goicon-statistics:before {
+  content: "\e90d";
+}
+.goicon-user:before {
+  content: "\e90e";
+}
+.goicon-cart:before {
+  content: "\e91b";
+}
+.goicon-chat:before {
+  content: "\e91c";
+}
+.goicon-email:before {
+  content: "\e922";
+}
+.goicon-fill-minus:before {
+  content: "\e923";
+}
+.goicon-fill-plus:before {
+  content: "\e924";
+}
+.goicon-home:before {
+  content: "\e925";
+}
+.goicon-incoming-call:before {
+  content: "\e926";
+}
+.goicon-menu:before {
+  content: "\e927";
+}
+.goicon-upload:before {
+  content: "\e92c";
+}
+.goicon-automation:before {
+  content: "\e92e";
+}
+.goicon-acessibilidade:before {
+  content: "\e903";
+}
+.goicon-whatsapp-filled:before {
+  content: "\e92d";
+}
+.goicon-whatsapp:before {
+  content: "\e202";
+}
+.goicon-facebook:before {
+  content: "\e201";
+}
+.goicon-play:before {
+  content: "\e90a";
+}
+.goicon-social-youtube:before {
+  content: "\e200";
+}
+.goicon-dual-heart:before {
+  content: "\e168";
+}
+.goicon-big-down:before {
+  content: "\e90f";
+}
+.goicon-big-left:before {
+  content: "\e918";
+}
+.goicon-big-right:before {
+  content: "\e919";
+}
+.goicon-big-up:before {
+  content: "\e91a";
+}
+.goicon-circle-down:before {
+  content: "\e91d";
+}
+.goicon-circle-left:before {
+  content: "\e91e";
+}
+.goicon-circle-right:before {
+  content: "\e91f";
+}
+.goicon-circle-up:before {
+  content: "\e921";
+}
+.goicon-triangle-down:before {
+  content: "\e928";
+}
+.goicon-triangle-left:before {
+  content: "\e929";
+}
+.goicon-triangle-right:before {
+  content: "\e92a";
+}
+.goicon-triangle-up:before {
+  content: "\e92b";
+}
+.goicon-seta-direita-baixo-especial:before {
+  content: "\e167";
+}
+.goicon-seta-esquerda-baixo-especial:before {
+  content: "\e166";
+}
+.goicon-seta-direita-cima-especial:before {
+  content: "\e165";
+}
+.goicon-seta-esquerda-cima-especial:before {
+  content: "\e164";
+}
+.goicon-seta-baixo-esquerda-especial:before {
+  content: "\e163";
+}
+.goicon-seta-cima-esquerda-especial:before {
+  content: "\e162";
+}
+.goicon-seta-baixo-direita-especial:before {
+  content: "\e161";
+}
+.goicon-seta-topo-direita-especial:before {
+  content: "\e160";
+}
+.goicon-quote-right:before {
+  content: "\e131";
+}
+.goicon-quote-left:before {
+  content: "\e130";
+}
+.goicon-rosa:before {
+  content: "\e106";
+}
+.goicon-folha-vazada:before {
+  content: "\e105";
+}
+.goicon-soma:before {
+  content: "\e104";
+}
+.goicon-coracao:before {
+  content: "\e103";
+}
+.goicon-estudo:before {
+  content: "\e102";
+}
+.goicon-tecnicas:before {
+  content: "\e101";
+}
+.goicon-trofeu:before {
+  content: "\e100";
+}
+.goicon-arrow-right-special:before {
+  content: "\e920";
+}
+.goicon-border-dual-down:before {
+  content: "\e917";
+}
+.goicon-border-dual-up:before {
+  content: "\e916";
+}
+.goicon-border-dual-right:before {
+  content: "\e915";
+}
+.goicon-border-dual-left:before {
+  content: "\e914";
+}
+.goicon-angle-down:before {
+  content: "\e913";
+}
+.goicon-angle-up:before {
+  content: "\e912";
+}
+.goicon-angle-left:before {
+  content: "\e911";
+}
+.goicon-angle-right:before {
+  content: "\e910";
+}
+.goicon-dual-angle-down:before {
+  content: "\e909";
+}
+.goicon-dual-angle-up:before {
+  content: "\e908";
+}
+.goicon-dual-angle-left:before {
+  content: "\e907";
+}
+.goicon-dual-angle-right:before {
+  content: "\e906";
+}
+.goicon-phone2:before {
+  content: "\e902";
+}
+.goicon-phone:before {
+  content: "\f095";
+}
+.goicon-envelope:before {
+  content: "\f0e0";
+}
+.goicon-imagens:before {
+  content: "\e901";
+}
+.goicon-folha:before {
+  content: "\e900";
+}
